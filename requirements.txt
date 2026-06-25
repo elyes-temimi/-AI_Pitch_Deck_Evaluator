@@ -1,4 +1,7 @@
 streamlit
-python-pptx
 pdfplumber
+python-pptx
 scikit-learn
+requests
+numpy
+pandas
