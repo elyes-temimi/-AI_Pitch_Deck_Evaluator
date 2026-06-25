@@ -1,0 +1,12 @@
+[
+  {"slide": 1, "title": "Cover", "content": "Veltra — Predictive maintenance for mid-size manufacturing plants"},
+  {"slide": 2, "title": "Problem", "content": "Unplanned equipment downtime costs mid-size manufacturers an average of $22,000 per hour. Our survey of 40 plant managers found 68% rely on fixed maintenance schedules, not real failure signals, and experience at least one unplanned stoppage per month."},
+  {"slide": 3, "title": "Solution", "content": "Veltra attaches low-cost vibration and thermal sensors to existing machinery and uses a failure-prediction model to alert maintenance teams 5-10 days before a breakdown, directly replacing the fixed-schedule guesswork that causes those stoppages."},
+  {"slide": 4, "title": "Product", "content": "Plug-in sensor kit (15-minute install, no rewiring) + a dashboard showing per-machine risk scores and a recommended maintenance window."},
+  {"slide": 5, "title": "Market Opportunity", "content": "Bottom-up: 38,000 mid-size manufacturing plants in our target region x avg. 12 critical machines x $400/machine/year = $182M serviceable market in this region alone."},
+  {"slide": 6, "title": "Business Model", "content": "Hardware sold near cost ($45/sensor); recurring SaaS fee of $400/machine/year for monitoring and predictions. 86% gross margin on the recurring revenue."},
+  {"slide": 7, "title": "Traction / Early Signals", "content": "Week-over-week active machines monitored: 40 (wk1) -> 95 (wk4) -> 210 (wk8) -> 410 (wk12) across 6 paying pilot plants. Two pilots have already converted to annual contracts ($14,400 ARR combined)."},
+  {"slide": 8, "title": "Go-to-Market Strategy", "content": "Direct sales to plant operations managers via 3 regional manufacturing associations we already have intro access to, then expand through word-of-mouth within those networks before scaling paid channels."},
+  {"slide": 9, "title": "Team", "content": "CEO: led predictive-maintenance rollout across 12 plants at a Tier-1 automotive supplier. CTO: built the vibration-analysis ML pipeline used in two published industrial IoT case studies."},
+  {"slide": 10, "title": "Ask", "content": "Raising $800K seed to hire 2 field engineers and convert our current pilot pipeline (14 plants in active trials) into paying contracts within 9 months, targeting $250K ARR."}
+]

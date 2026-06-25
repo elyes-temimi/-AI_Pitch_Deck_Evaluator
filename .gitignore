@@ -1,0 +1,67 @@
+#Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+#Virtual environments
+
+venv/
+.venv/
+env/
+
+#Build
+
+build/
+dist/
+*.egg-info/
+
+#IDE
+
+.vscode/
+.idea/
+
+#OS
+
+.DS_Store
+Thumbs.db
+
+#Streamlit
+
+.streamlit/secrets.toml
+
+#Logs
+
+*.log
+
+#Generated reports
+
+*_report.md
+*.json.bak
+
+#Local model cache (if any)
+
+models/
+
+#Temporary files
+
+tmp/
+temp/
+
+#Jupyter
+
+.ipynb_checkpoints/
+
+#Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+#Ollama local files (if present)
+
+#ollama_data/
+
+#Environment variables
+
+.env
+.env.local
